@@ -1,1 +1,1 @@
-# praticando
+# praticando HTML, CSS, JS
